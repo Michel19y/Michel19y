@@ -2,6 +2,10 @@
 
 Desenvolvedor full stack em formação, transitando entre **C#/.NET**, **PHP/Laravel**, **Node.js** e o ecossistema **JavaScript/TypeScript** (React, React Native/Expo). Meus repositórios cobrem desde sistemas de console com persistência em banco de dados até apps mobile completos com backend próprio, autenticação e integração com mapas.
 
+## 💼 Experiência
+
+**Dev Backend** na [Lands Agência Web](https://landsagenciaweb.com) — desenvolvimento de automações com **n8n**.
+
 ## 🛠️ Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -16,6 +20,7 @@ Desenvolvedor full stack em formação, transitando entre **C#/.NET**, **PHP/Lar
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ## 📌 Projetos em destaque
 
