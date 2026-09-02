@@ -32,21 +32,28 @@ Desenvolvedor full stack em formação, com experiência profissional em **autom
 | [projetouber](https://github.com/Michel19y/projetouber) + [backend-mobilidade](https://github.com/Michel19y/backend-mobilidade) | **DriveE** — clone de app de mobilidade estilo Uber: app mobile com fluxos separados de passageiro/motorista + backend Node.js com corridas, mapas e Supabase |
 | [RPG-Dungeons-Dragons](https://github.com/Michel19y/RPG-Dungeons-Dragons) | RPG por turnos com combates contra monstros, rolagem de dados e tema necromântico |
 | [livros](https://github.com/Michel19y/livros) | Busca de livros consumindo a Google Books API |
+| [Naruto-Gerenciador](https://github.com/Michel19y/Naruto-Gerenciador) | Gerenciamento de uma coleção de ninjas de um jogo gacha, com dados no Firebase |
+| [Estudos-de-crud-em-react](https://github.com/Michel19y/Estudos-de-crud-em-react) | CRUD completo com Firebase Auth + Firestore |
 
 ### PHP / Laravel
 | Projeto | Descrição |
 |---|---|
 | [Laravel](https://github.com/Michel19y/Laravel) | Sistema de pizzaria: auth separada cliente/admin, catálogo de produtos, endereços e pedidos |
 | [herois](https://github.com/Michel19y/herois) | Cadastro de heróis vinculados ao usuário autenticado |
+| [Peliculas](https://github.com/Michel19y/Peliculas) | Cadastro e gerenciamento de películas automotivas |
 
 ### Web
 | Projeto | Descrição |
 |---|---|
 | [Portifolio](https://github.com/Michel19y/Portifolio) | Portfólio pessoal |
 | [ninjas](https://github.com/Michel19y/ninjas) | Gerenciamento de ninjas organizados por eventos |
+| [Naruto-Gerenciador-web](https://github.com/Michel19y/Naruto-Gerenciador-web) | Versão web do gerenciador de ninjas do jogo gacha |
+| [Projeto-ods](https://github.com/Michel19y/Projeto-ods) | **AquaVida** — plataforma sobre acesso à água potável, alinhada aos ODS 6, 10 e 12 |
 | [smarthub](https://github.com/Michel19y/smarthub) | Landing page de assistência técnica de celulares |
+| [florianiassistencia](https://github.com/Michel19y/florianiassistencia) | Landing page de outro negócio de assistência técnica |
+| [Peliculas-vercell](https://github.com/Michel19y/Peliculas-vercell) | Versão do sistema de películas hospedada na Vercel, com Supabase |
+| [Repertorio](https://github.com/Michel19y/Repertorio) | Site pessoal para publicar textos |
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Michel19y&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michel19y&layout=compact&theme=default&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/Michel19y?style=social)
