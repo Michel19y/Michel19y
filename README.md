@@ -1,10 +1,6 @@
 # Olá, eu sou o Michel 👋
 
-Desenvolvedor full stack em formação, transitando entre **C#/.NET**, **PHP/Laravel**, **Node.js** e o ecossistema **JavaScript/TypeScript** (React, React Native/Expo). Meus repositórios cobrem desde sistemas de console com persistência em banco de dados até apps mobile completos com backend próprio, autenticação e integração com mapas.
-
-## 💼 Experiência
-
-**Dev Backend** na [Lands Agência Web](https://landsagenciaweb.com) — desenvolvimento de automações com **n8n**.
+Desenvolvedor full stack em formação, com experiência profissional em **automações (n8n)**, **DevOps** e **agentes de IA**, além de projetos pessoais que passam por **C#/.NET**, **PHP/Laravel**, **Node.js** e o ecossistema **JavaScript/TypeScript** (React, React Native/Expo). Meus repositórios cobrem desde sistemas de console com persistência em banco de dados até apps mobile completos com backend próprio, autenticação e integração com mapas.
 
 ## 🛠️ Stack
 
